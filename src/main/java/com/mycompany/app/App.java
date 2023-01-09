@@ -4,7 +4,7 @@ package com.mycompany.app;
  * Hello world!
  */
 public class App {
-
+//test szm
     private static final String MESSAGE = "Hello World!";
 
     public App() {}
